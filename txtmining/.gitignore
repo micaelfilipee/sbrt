@@ -1,0 +1,9 @@
+*.RData
+dados/*
+csv/*
+*.Rproj
+*.udpipe
+.Rproj.user
+*.rda
+*.rds
+
